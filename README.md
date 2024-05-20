@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center"> 
 
-<!--
-**7manwon/7manwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=7manwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-Here are some ideas to get you started:
+### Welcome my github profile !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+
+### Skills
+
+
+
+<br>
+<br>
+<br>
+
+### Stats
+
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=7manwon&rank_icon=github&hide_title=true&show_icons=true&icon_color=AD88C6" />
+
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7manwon&layout=donut&hide_title=true" />
+
+
+</div>
