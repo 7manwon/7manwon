@@ -18,9 +18,7 @@
 
 ### Stats
 
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=7manwon&rank_icon=github&hide_title=true&show_icons=true&icon_color=AD88C6" />
-
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7manwon&layout=donut&hide_title=true" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7manwon&theme=rose_pine) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7manwon&theme=rose_pine)
 
 
 </div>
