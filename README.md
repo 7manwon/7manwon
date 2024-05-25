@@ -25,6 +25,6 @@
 
 ### Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7manwon&theme=rose_pine) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7manwon&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=7manwon&theme=rose_pine) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7manwon&theme=rose_pine)
 
 </div>
